@@ -23,13 +23,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fani1016&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4ni&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fani1016&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Farhan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f4ni&layout=compact&theme=vision-friendly-dark&show_icons=true" alt="Farhan's GitHub stats" />
 </div>
 
 <div id="header" align="center">
